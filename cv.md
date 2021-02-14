@@ -21,5 +21,6 @@ I began programming 6 months ago on C#, but 3 months ago I started to learn HTML
 ## 7. Education
 Baltic State Technical University "Voenmex"(2010-2014) - bachelor of technics and technologies of "Mechatronics" faculty. <br/>
 Stepik course "HTML & CSS for beginners"
+RSSchool 2020 Q3 - I stopped education after the interview with mentor.
 ## 8. English
 My englist level is B1 (EPAM test result) but i think I can do better.
