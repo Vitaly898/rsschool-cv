@@ -9,6 +9,7 @@
 Now i work on a factory as an engineer. Last five years i worked with numerical control machines. <br/>
 It began to be my big hobby and now i want to change my working sphere as a web-developer.</br>
 I think the RSSchool courses is a very nice start. 
+I also love football and gym
 ## 4. Skills
 - C# - basic level <br/>
 - HTML & CSS - good level <br/> 
