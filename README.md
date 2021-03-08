@@ -1,1 +1,1 @@
-https://Vitaly898.io/rsschool-cv/cv
+https://vitaly898.github.io/rsschool-cv/
